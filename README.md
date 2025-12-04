@@ -1,4 +1,4 @@
-Hello! these are all the files I created for the mini project 2 you can't see them on github since it'll just say raw data but once you download the file you should be able to see the data.
+Hello! these are all the files I created for the mini project 2 you can't see the xlsx file on github since it'll just say raw data but once you download the file you should be able to see the data.
 
 here is a summary of what each file contains
 ---------------------------------------------
